@@ -26,15 +26,6 @@ To write a Java program to overwrite the content of a file using FileWriter.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a File Handling using Java
-Developed by: Nara Guna SUsmitha
-RegisterNumber: 212224230176
-*/
-```
-
-## SOURCE CODE:
 
 ```
 import java.io.FileWriter;
