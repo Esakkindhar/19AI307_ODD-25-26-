@@ -24,15 +24,7 @@ To write a Java program that demonstrates the use of variables, data types, oper
 8.	End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement variables and Operators using Java
-Developed by: Nara Guna Susmitha
-Reg. No.: 212224230176
-*/
-```
 
-## Sourcecode.java:
 ```
 import java.util.*;
 public class Main
