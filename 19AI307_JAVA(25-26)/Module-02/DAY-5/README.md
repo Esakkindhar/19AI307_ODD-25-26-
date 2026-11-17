@@ -25,15 +25,7 @@ To write a Java program that demonstrates returning the current object using thi
 
 ## PROGRAM:
  ```
-/*
-Program to implement a Access Modifiers using Java
-Developed by: Nara Guna Susmitha
-RegisterNumber: 212224230176
-*/
-```
 
-## SOURCE CODE:
-```java
 import java.util.*;
 class Employee
 {
