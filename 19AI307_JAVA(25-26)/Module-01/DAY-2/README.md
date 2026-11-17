@@ -41,15 +41,7 @@ To write a Java program that uses conditional statements to determine the state 
 12. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a conditional statement using Java
-Developed by: Nara Guna Susmitha
-RegisterNumber:  212224230176
-*/
-```
 
-## Sourcecode.java:
 ```
 import java.util.*;
 public class Demo
