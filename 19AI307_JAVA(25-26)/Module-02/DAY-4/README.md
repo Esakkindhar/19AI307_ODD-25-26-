@@ -28,16 +28,7 @@ To write a Java program that implements a parameterized constructor to initializ
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Nara Guna Susmitha
-RegisterNumber: 212224230176
-*/
-```
 
-## SOURCE CODE:
-```java
 import java.util.Scanner;
 class Student
 {
