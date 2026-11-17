@@ -23,15 +23,6 @@ To write a Java program that reads an array of integers and finds the index of a
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Array concept using Java
-Developed by: Nara Guna Susmitha
-Register Number: 212224230176
-*/
-```
-
-## SOURCE CODE:
 ```
 import java.util.Scanner;
 
@@ -60,7 +51,8 @@ public class Main {
 ```
 
 ## OUTPUT:
-<img width="695" height="646" alt="image" src="https://github.com/user-attachments/assets/75b8eebe-79fd-40ad-bd4f-53d9d6d2c449" />
+<img width="695" height="646" alt="646722423-75b8eebe-79fd-40ad-bd4f-53d9d6d2c449" src="https://github.com/user-attachments/assets/cf7975c0-09b0-4db5-b6de-c541a72fe2b1" />
+
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
